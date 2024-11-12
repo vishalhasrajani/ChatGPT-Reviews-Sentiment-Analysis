@@ -1,0 +1,14 @@
+app-store-scraper
+wordcloud
+spacy
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+imblearn
+xgboost
+Pillow
+
+
