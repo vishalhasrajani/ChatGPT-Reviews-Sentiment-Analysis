@@ -62,6 +62,9 @@ Collected Data can be find [here](data/chatgpt_reviews.csv).
 ### Negative Sentiment WordCloud
 ![Reviews WordCloud](img/negative_sentiment.png)
 
+### Neutral Sentiment WordCloud
+![Reviews WordCloud](img/neutral_sentiment.png)
+
 ### Sentiment Analsysis Results
 Based on the evaluation results, the best-performing model was **XGBoost** which achieved an accuracy of 87% and F1-score of more than  85%. 
 
